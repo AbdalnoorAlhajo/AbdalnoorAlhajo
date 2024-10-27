@@ -7,7 +7,7 @@ Passionate about building innovative software solutions, I've completed over 20 
 - 🌱 I’m currently learning **advanced data structures, algorithms**
 
 ## 💼 Experience
-- Proficient in **C#, SQL, ASP.NET, .net**, and RESTful API's services
+- Proficient in **C#, SQL, ASP.NET core web API, .net**, and RESTful API's services
 - Skilled in **database design**, **data integrity** optimization, and 3-tier architecture
 - Solved over **500 algorithmic problems** in C, C++, and C#
 
